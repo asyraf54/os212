@@ -16,3 +16,6 @@ In this article , give 35 basic linux commands that will help to navogate throug
 C programming language is a must for students and professionals to become a good software engineer . This tutorial make you understand how to use syntax in C language.
 7. [OS File System](https://www.tutorialspoint.com/operating_system/os_file_system.htm)<br>
 A file is a named collection of related information that is recorded on secondary storage such as magnetic disks, magnetic tapes and optical disks.
+8. [Main Memory](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html)<br>
+This web introduces the main memory. In this course notes you can learn about memory allocation and memory protection.
+
