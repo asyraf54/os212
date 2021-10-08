@@ -66,4 +66,17 @@ ZCZC W04 20 L16 Assignment #06
 ZCZC W04 20 L17 Assignment #07
 ZCZC W04 15 L18 Assignment #08
 ZCZC W04 15 L19 Assignment #09
+ZCZC W04 20 L22 Quiz
 
+ZCZC W05 100 L02 Zoom meetings related
+ZCZC W05 30 L02 Zoom meetings related
+ZCZC W05 50 L99 Fixing name of Group and Home Directory
+ZCZC W05 60 L11 Assignment #01
+ZCZC W05 25 L12 Assignment #02
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 60 L14 Assignment #04
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 30 L16 Assignment #06 
+ZCZC W05 20 L17 Assignment #07
+ZCZC W05 15 L18 Assignment #08
+ZCZC W05 15 L19 Assignment #09
