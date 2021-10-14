@@ -20,5 +20,9 @@ A file is a named collection of related information that is recorded on secondar
 This web introduces the main memory. In this course notes you can learn about memory allocation and memory protection.
 9. [OS - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm)<br>
 A computer can address more memory than the amount physically installed on the system. This extra memory is actually called virtual memory
-10. [top command in Linux](https://www.geeksforgeeks.org/top-command-in-linux-with-examples/#:~:text=top%20command%20is%20used%20to%20show%20the%20Linux,which%20are%20currently%20managed%20by%20the%20Linux%20Kernel.)<br>
+10. [Top Command in Linux](https://www.geeksforgeeks.org/top-command-in-linux-with-examples/#:~:text=top%20command%20is%20used%20to%20show%20the%20Linux,which%20are%20currently%20managed%20by%20the%20Linux%20Kernel.)<br>
 top command is used to show the Linux processes. It provides a dynamic real-time view of the running system.
+11. [Process Management](https://www.guru99.com/process-management-pcb.html)<br>
+This article introduce about process management in operating system. Process management involves various tasks like creation, scheduling, termination of processes, and a dead lock.
+12. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+This article make you understand about Thread and Concurrency. Thread data structure is Thread type, Thread ID, PC, SP, registers, stack, attributes. 
