@@ -26,3 +26,7 @@ top command is used to show the Linux processes. It provides a dynamic real-time
 This article introduce about process management in operating system. Process management involves various tasks like creation, scheduling, termination of processes, and a dead lock.
 12. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
 This article make you understand about Thread and Concurrency. Thread data structure is Thread type, Thread ID, PC, SP, registers, stack, attributes. 
+13. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+In this tutorial, we will be covering the concept of Process synchronization in an Operating System. Process Synchronization was introduced to handle problems that arose while multiple process executions.
+14. [Process Deadlocks](https://www.tutorialspoint.com/process-deadlocks-in-operating-system#:~:text=A%20deadlock%20happens%20in%20operating%20system%20when%20two,resource%202%20and%20needs%20to%20acquire%20resource%201.)<br>
+This tutorial takes you through deadlock. A deadlock happens in operating system when two or more processes need some resource to complete their execution that is held by the other process.
