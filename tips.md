@@ -8,3 +8,4 @@ permalink: /TIPS/
 4. Baca dengan teliti petunjuk soal
 5. Gunakan waktu dengan efisien
 6. Sabar apabila nilai tidak memuaskan dan belajar lagi
+7. Pantang menyerah

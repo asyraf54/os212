@@ -30,3 +30,5 @@ This article make you understand about Thread and Concurrency. Thread data struc
 In this tutorial, we will be covering the concept of Process synchronization in an Operating System. Process Synchronization was introduced to handle problems that arose while multiple process executions.
 14. [Process Deadlocks](https://www.tutorialspoint.com/process-deadlocks-in-operating-system#:~:text=A%20deadlock%20happens%20in%20operating%20system%20when%20two,resource%202%20and%20needs%20to%20acquire%20resource%201.)<br>
 This tutorial takes you through deadlock. A deadlock happens in operating system when two or more processes need some resource to complete their execution that is held by the other process.
+15. [CPU Scheduling in OS](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+A typical process involves both I/O time and CPU time. In a uni programming system like MS-DOS, time spent waiting for I/O is wasted and CPU is free during this time. In multi programming systems, one process can use CPU while another is waiting for I/O.
